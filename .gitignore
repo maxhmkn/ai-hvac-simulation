@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OpenModelica / Dymola temporäre Dateien
+*.log
+*.mat
+*.plt
+*.c
+*.h
+*.o
+*.libs
+*.makefile
+*~
