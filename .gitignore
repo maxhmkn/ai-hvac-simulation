@@ -1,9 +1,10 @@
 # Python
 __pycache__/
 *.pyc
+.venv/
 .ipynb_checkpoints/
 
-# OpenModelica / Dymola temporäre Dateien
+# OpenModelica Build-Artefakte
 *.log
 *.mat
 *.plt
@@ -12,4 +13,5 @@ __pycache__/
 *.o
 *.libs
 *.makefile
+*_res.*
 *~
